@@ -7,6 +7,8 @@ import kotlin.reflect.full.primaryConstructor
 /*
 Reflection
  - 객체의 Type 을 알아보는 방법
+ - Program 실행 중에 Program 의 구조 (객체, 함수, Property) 를 분석하는 기법
+ - 객체의 Class Type, Class 정보, 생성자 정보, Property 정보 등을 실행 중에 피악할 수 있습니다.
  */
 
 fun main() {
